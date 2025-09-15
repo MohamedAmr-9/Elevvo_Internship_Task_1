@@ -14,17 +14,6 @@ The dashboard helps visualize and analyze sales performance across different reg
 
 ---
 
-## 📂 Project Structure
-```
-Sales-Dashboard-Task/
-│── data/
-│   └── Sales Dashboard Task 1.xlsx     # Raw dataset
-│── dashboard/
-│   └── Sales Dashboard Task 1.xlsx     # Final Excel dashboard
-│── assets/
-│   └── dashboard_preview.png           # Dashboard screenshot
-│── README.md
-```
 
 ---
 
@@ -43,13 +32,9 @@ Sales-Dashboard-Task/
 ---
 
 ## 📌 How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/YourUsername/Sales-Dashboard-Task.git
-   ```
-2. Open the Excel file in `dashboard/`.
-3. Explore the interactive dashboard using filters and slicers.
-
+1. Download `Sales Dashboard Task 1.xlsx` file
+2. Open the Excel file in `dashboard sheet`.
+3. Explore the interactive dashboard using filters.
 ---
 
 ## ✨ About
