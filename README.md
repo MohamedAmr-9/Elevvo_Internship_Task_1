@@ -1,19 +1,21 @@
 # 📊 Sales Dashboard – Elevvo Internship Task
 
 This repository contains a **Sales Dashboard** built using **Excel** as part of the **Elevvo Internship Program**.  
-The dashboard helps visualize and analyze sales performance across different regions, categories, and time periods.
+The dashboard provides key insights into sales performance across categories, regions, customer segments, and time.
 
 ---
 
 ## 🚀 Features
-- ✅ **KPIs**: Total Sales, Total Orders, Total Customers, Average Sales per Order  
-- 📈 **Sales Trends**: Track sales over months and years  
-- 🌍 **Regional Insights**: Compare performance across regions  
-- 🛒 **Category Breakdown**: Sales distribution by product categories  
-- ⭐ **Top Products**: Highlight top 10 best-selling products  
+- ✅ **KPIs**:  
+  - Total Sales: **US$2,261,537**  
+  - Total Orders: **9800**  
+  - Average Sales per Order: **US$231**  
 
----
-
+- 📈 **Sales Trend**: Monthly sales over time (2015–2018)  
+- 🥧 **Sales Segmentations**: Visual breakdown by customer segments  
+- 🛒 **Category Insights**: Sales comparison across Furniture, Office Supplies, and Technology  
+- 🌍 **Regional View**: Sales distribution across Central, East, South, and West  
+- ⭐ **Top Cities**: Highlight of the highest sales-performing cities  
 
 ---
 
@@ -26,21 +28,20 @@ The dashboard helps visualize and analyze sales performance across different reg
 - **Microsoft Excel**  
   - Pivot Tables  
   - Pivot Charts  
-  - Slicers & Filters  
-  - Dashboard Design  
+  - Filters  
+  - Dashboard Formatting & Design  
 
 ---
 
-## 📌 How to Use
-1. Download `Sales Dashboard Task 1.xlsx` file
-2. Open the Excel file in `dashboard sheet`.
-3. Explore the interactive dashboard using filters.
----
 
-## ✨ About
-This project was created during the **Elevvo Internship** as a practical task to demonstrate skills in:  
-- Data Cleaning & Preparation  
-- Dashboard Design  
-- Business Data Analysis  
 
----
+Explore the Dashboard sheet and interact with slicers/filters.
+
+✨ About
+This project was created during the Elevvo Internship to showcase skills in:
+
+Data Analysis
+
+Dashboard Design
+
+Business Insights Visualization
