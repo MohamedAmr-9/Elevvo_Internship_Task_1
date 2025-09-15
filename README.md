@@ -18,7 +18,7 @@ The dashboard helps visualize and analyze sales performance across different reg
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard Preview](assets/dashboard_preview.png)
+![Dashboard Preview](Sales_Dashboard.png)
 
 ---
 
