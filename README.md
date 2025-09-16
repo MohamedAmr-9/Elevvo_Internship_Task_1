@@ -34,7 +34,7 @@ The dashboard provides key insights into sales performance across categories, re
 ---
 
 ## 📌 How to Use
-1. Download `Sales Dashboard Task 1`
+1. Download `Sales Dashboard Task 1.xlsx`
 2. Open the Excel file and navigate to `Dashboard`sheet.
 3. Explore the interactive dashboard using filters and slicers.
 
